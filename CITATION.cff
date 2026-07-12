@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "BioSafety ReplayOps Mini-Track"
+message: "If you use this software or synthetic dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: Kim
+    given-names: JangKeun
+    affiliation: Weill Cornell Medicine
+version: "0.2.0"
+date-released: "2026-07-12"
+repository-code: "https://github.com/jang1563/biosafety-replayops-mini-track"
+url: "https://github.com/jang1563/biosafety-replayops-mini-track"
+license: Apache-2.0
+keywords:
+  - biosafety
+  - AI safety
+  - agentic evaluation
+  - safeguard routing
+  - prompt injection
+  - synthetic data
+abstract: >-
+  A deterministic synthetic fixture and scorer bundle for testing safeguard
+  routing under ambiguity, untrusted context, prompt injection, disclosure
+  boundaries, provenance constraints, and consequential-action gates. It is
+  not a biological capability benchmark or real-world risk measurement.

@@ -1,0 +1,18 @@
+{
+  "dataset_name": "BioSafety ReplayOps Mini-Track",
+  "schema_version": "0.1.6",
+  "route_vocab": [
+    "allow",
+    "caveat",
+    "clarify",
+    "escalate",
+    "refuse"
+  ],
+  "response_shape_vocab": [
+    "normal_answer",
+    "bounded_answer",
+    "clarifying_question",
+    "escalation_notice",
+    "refusal"
+  ]
+}

@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+results/
+.hf_release/
+
+# Held-out evaluation material is never part of the public repository.
+data/_private/
+data/_canary/
