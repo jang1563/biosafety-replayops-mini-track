@@ -34,7 +34,7 @@ Changelog = "https://github.com/jang1563/biosafety-replayops-mini-track/blob/mai
 dev = [
     "huggingface-hub>=1.8,<2",
     "pytest>=9.0,<10",
-    "ruff>=0.12",
+    "ruff>=0.15.22",
 ]
 
 [tool.setuptools.packages.find]
