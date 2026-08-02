@@ -32,7 +32,7 @@ Changelog = "https://github.com/jang1563/biosafety-replayops-mini-track/blob/mai
 
 [dependency-groups]
 dev = [
-    "huggingface-hub>=1.8,<2",
+    "huggingface-hub>=1.25.1,<2",
     "pytest>=9.0,<10",
     "ruff>=0.12",
 ]
